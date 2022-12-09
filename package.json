@@ -1,0 +1,23 @@
+{
+  "name": "scrapevkusvillnewproducts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scrVNP": "node scrapeVkusvillNewProducts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksandrshd/scrapeVkusvillNewProducts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksandrshd/scrapeVkusvillNewProducts/issues"
+  },
+  "homepage": "https://github.com/aleksandrshd/scrapeVkusvillNewProducts#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
